@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">TourGuideApp</string>
+
+    <string name="bar">bars</string>
+    <string name="restaurants">restaurants</string>
+    <string name="special_places">special places</string>
+    <string name="events">events</string>
+
+    <!-- overview of the events, containing the names and the dates-->
+    <string name="lichtfestival">Lichtfestival</string>
+    <string name="gentsefeesten">Gentse Feesten</string>
+    <string name="kerstmarkt">Kerstmarkt</string>
+    <string name="halfvastenfoor">Halfvastenfoor</string>
+    <string name="patershol">Patersholfeesten</string>
+    <string name="filmfest">Film Fest Gent</string>
+
+    <string name="licht_date">End of January, begin of February</string>
+    <string name="gentsefeesten_date">Mid until end of July</string>
+    <string name="kerstmarkt_date">December</string>
+    <string name="foor_date">End of March, begin of April</string>
+    <string name="patershol_date">Mid of August</string>
+    <string name="filmfest_date">October</string>
+
+    <!-- overview of the places, containing the names and addresses-->
+    <string name="gravensteen">Het Gravensteen</string>
+    <string name="sintbaafs">Sint-Baafskathedraal</string>
+    <string name="belfort">Belfort van Gent</string>
+    <string name="sintniklaas">Sint-Niklaaskerk</string>
+    <string name="msk">Museum voor Schone Kunsten</string>
+    <string name="sintmichiels">Sint-Michielskerk</string>
+    <string name="graslei">Graslei</string>
+    <string name="citadel">Citadelpark</string>
+
+    <string name="gravensteen_address">Sint-Veerleplein 11</string>
+    <string name="sintbaafs_address">Sint-Baafsplein</string>
+    <string name="belfort_address">Sint-Baafsplein</string>
+    <string name="sintniklaas_address">Catalonïestraat</string>
+    <string name="msk_address">Fernand Scribedreef 1</string>
+    <string name="sintmichiels_address">Sint-Michielshelling</string>
+    <string name="graslei_address">Graslei</string>
+    <string name="citadel_address">Charles de Kerchovelaan</string>
+
+    <!-- overview of the restaurants, containing the names and addresses-->
+    <string name="witteleeuw">De Witte Leeuw</string>
+    <string name="chezalbert">Chez Albert</string>
+    <string name="alcastello">Al Castello</string>
+    <string name="kastart">De Kastart</string>
+    <string name="bluesette">Bluesette</string>
+    <string name="goudensate">De Gouden Saté</string>
+
+    <string name="witteleeuw_address">Graslei</string>
+    <string name="albert_address">Sint-Veerleplein</string>
+    <string name="castello_address">Geldmunt</string>
+    <string name="kastart_address">Onderbergen</string>
+    <string name="bluesette_address">Sint-Kwintensberg</string>
+    <string name="goudensate_address">Sint-Pietersplein</string>
+
+    <!-- overview of the bars, containing the names and addresses-->
+    <string name="dullegriet">Dulle Griet</string>
+    <string name="trollekelder">De Trollekelder</string>
+    <string name="dreupelkot">\'t Dreupelkot</string>
+    <string name="charlatan">Charlatan</string>
+    <string name="spijker">Het Spijker</string>
+    <string name="gruut">Gruut</string>
+    <string name="galgenhuis">\'t Galgenhuisje</string>
+    <string name="janvangent">Jan Van Gent</string>
+    <string name="porterhouse">Porter House</string>
+    <string name="decadance">Decadance</string>
+
+    <string name="dullegriet_address">Vrijdagmarkt</string>
+    <string name="trollekelder_address">Bij Sint-Jacobs</string>
+    <string name="dreupelkot_address">Groentenmarkt</string>
+    <string name="charlatan_address">Vlasmarkt</string>
+    <string name="spijker_address">Pensmarkt</string>
+    <string name="gruut_address">Grote Huidevettershoek</string>
+    <string name="galgenhuis_address">Groentenmarkt</string>
+    <string name="janvangent_address">Annoniadenstraat</string>
+    <string name="porter_address">Stalhof</string>
+    <string name="decadance_address">Overpoort</string>
+</resources>
